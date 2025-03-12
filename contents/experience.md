@@ -1,21 +1,20 @@
-### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
+### **第十九届挑战杯全国大学生课外学术科技作品竞赛**  
+**July 2024 – October 2024 | SDU**  
 
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
+**概述**: 本项目提出并落实了一个完整的治理网络暴力舆论的前后端交互系统。由生成话题热度曲线、爬取实时语料库、Bert情感分析、T5生成评论、微博机器人干预5个模块组成。数据集为网络爬取的17万条网友评论，微博机器人weibobot开发并可向用户授权管理。
+**贡献**: 提出并构建框架，大部分代码写作、全部数据集处理、完整的模型训练、研究报告写作、图表绘制工作
+**成果**: 作为《数字时代网络暴力信息的多元化风险治理路径研究》的产出项目，该研究作品获得第十九届“挑战杯”全国大学生课外学术科技作品竞赛“揭榜挂帅”专项赛国家级一奖。
 
-#### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
+
+
 
 ---
 
-### **软件工程师实习生**  
-**2025年1月 – 2025年6月 | 字节跳动**  
+### **中国大学生数学建模**  
+**2024年9月**  
 
-负责大规模推荐系统的开发与优化，专注于算法改进和系统效率提升。参与实时数据处理管道的构建，并优化模型推理流程，以提升个性化内容推荐效果。
+**概述**: ：针对给定农作物品类、产量与销量等情况与土地情况，采用线性规划方法建立总收益目标函数，通过数据处理得出约束条件，最后采用模拟退火得出未来七年最优种植策略。
+**贡献**: 建模主力、大框架代码写作、全部论文写作、图表绘制
+**成果**: 获得中国大学生数学建模C题省级一等奖
 
-#### 主要贡献:  
-- 研发并优化推荐算法，提高用户互动率和内容相关性。  
-- 设计并实现实时数据处理流程，提升模型推理的计算效率。  
-- 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。
+

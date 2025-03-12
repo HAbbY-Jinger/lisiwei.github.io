@@ -1,3 +1,5 @@
-- 校级一等奖学金, 2022.  
+- SDU优秀学生奖学金, 2023.  
+- SDU优秀学生奖学金, 2024. 
+- SDU三好学生, 2022-2025. 
 
-- Outstanding Graduation Thesis, XXX University, 2023. 
+
